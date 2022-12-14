@@ -1,2 +1,2 @@
-email="shravanivv.chavan@gmail.com" #senders email
-password="xhdg nida ekju mmuo"    #app password
+email="xxxxxxxxxxx@gmail.com" #senders email
+password="xxxx xxxx xxxx xxxx"    #app password
