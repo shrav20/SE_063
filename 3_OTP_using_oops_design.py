@@ -66,5 +66,5 @@ class generate_otp(unittest.TestCase):
 
 
 
-g=generate_otp('Shau','svchavan2008@gmail.com',4)
+g=generate_otp('name','xxxxxxxxxxxxxxx@gmail.com',4)
         
