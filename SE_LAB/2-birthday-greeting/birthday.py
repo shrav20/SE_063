@@ -17,7 +17,7 @@ today=now[8:10]+now[5:7]
 print("Todays date "+today)  #format of birthday=DDMM
 
 #database connection
-mydb=mysql.connector.connect(host="localhost",user="root",password="Shauv@20",database = "bday_data")
+mydb=mysql.connector.connect(host="localhost",user="root",password="mysql_password",database = "bday_data")
 mycursor = mydb.cursor()
 
 
